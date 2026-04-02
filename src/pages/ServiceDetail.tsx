@@ -25,7 +25,7 @@ const serviceData = {
       { title: "Flexibility", desc: "Options for Full Container (FCL) or Less than Container (LCL)." }
     ],
     useCases: ["Heavy machinery", "Automotive parts", "Bulk raw materials", "Large retail inventory"],
-    image: "https://images.unsplash.com/photo-1494412519320-ce3e59b248ce?q=80&w=2070&auto=format&fit=crop"
+    image: "/sea-freight.jpg"
   },
   "land-transport": {
     title: "Land Transport",

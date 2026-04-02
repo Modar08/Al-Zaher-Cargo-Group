@@ -18,7 +18,7 @@ export default function Services() {
       title: "Sea Freight",
       desc: "Cost-effective and reliable sea freight solutions. We handle both Full Container Load (FCL) and Less than Container Load (LCL) with competitive global rates.",
       features: ["FCL & LCL", "Project Cargo", "Refrigerated Containers", "Port-to-Port"],
-      image: "https://images.unsplash.com/photo-1494412519320-ce3e59b248ce?q=80&w=1000&auto=format&fit=crop"
+      image: "/sea-freight.jpg"
     },
     {
       id: "land-transport",
